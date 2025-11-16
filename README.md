@@ -1,4 +1,4 @@
-## Hi there deka muhamad akmal 👋
+## Hi there, i'am deka muhamad akmal!👋
 
 I'm a first-semester student at STIKOM Elrahma, currently studying JavaScript and Kotlin. I'm interested in app development, cross-platform programming, and coding best practices. I'm currently focusing on learning projects and collaborations to strengthen my fundamental skills. 
 <!--
