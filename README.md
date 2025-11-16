@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi there deka muhamad akmal 👋
 
+I'm a first-semester student at STIKOM Elrahma, currently studying JavaScript and Kotlin. I'm interested in app development, cross-platform programming, and coding best practices. I'm currently focusing on learning projects and collaborations to strengthen my fundamental skills. 
 <!--
 **dekase4-cmd/dekase4-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
